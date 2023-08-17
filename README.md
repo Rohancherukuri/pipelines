@@ -1,1 +1,1 @@
-# pipelines
+# This is custom machine learning pipeline built using python programming language which can be used for both regression, classification and clustering problems which covers almost the entire machine learning life cycle, right from exploratory data analysis to the model containeraztion using docker tool.  
